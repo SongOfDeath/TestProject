@@ -53,6 +53,7 @@ string GetActiveWindowTitle()
  return wnd_title;
 }
 
+
 void sendMailToMe()
 {
     string strPath = "c:\\send-mail.ps1";
